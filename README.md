@@ -1,6 +1,7 @@
-O sistema fica assim quando está sendo executado:
-<img src="https://github.com/rayssamelnc-cmd/Sistema-de-registro-de-alunos/blob/main/inicial.png?raw=true" alt="Tela inicial do sistema de registro de alunos" width="800">
-<img src="https://github.com/rayssamelnc-cmd/Sistema-de-registro-de-alunos/blob/main/comaluno.png?raw=true" alt="Tela inicial do sistema de registro de alunos" width="800">
+<img src="https://github.com/rayssamelnc-cmd/Sistema-de-registro-de-alunos/blob/main/inicial.png?raw=true" 
+     alt="Tela inicial" width="400">
+<img src="https://github.com/rayssamelnc-cmd/Sistema-de-registro-de-alunos/blob/main/comaluno.png?raw=true" 
+     alt="Com aluno" width="400">
 
 
 <p>

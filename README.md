@@ -21,12 +21,11 @@ Este projeto é um Sistema de Registro de Alunos criado com Python e Tkinter, qu
 </ul>
 
 📂 Estrutura
-
-main.py – Lógica principal do sistema (CRUD de alunos).
-
-interface.py – Interface gráfica com Tkinter.
-
-imagens/ – Pasta para armazenar fotos de alunos e ícones.
+<ul>
+<li>main.py – Lógica principal do sistema (CRUD de alunos)</li>
+<li>interface.py – Interface gráfica com Tkinter</li>
+<li>imagens/ – Pasta para armazenar fotos de alunos e ícones</li>
+</ul>
 
 🎯 Objetivo
 

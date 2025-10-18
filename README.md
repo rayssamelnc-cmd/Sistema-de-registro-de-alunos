@@ -1,4 +1,4 @@
-<h1>Sobre o Sistema de alunos</h1>
+<!-- <h1>Sobre o Sistema de alunos</h1> -->
 Este projeto é um Sistema de Registro de Alunos criado com Python e Tkinter, que facilita o gerenciamento de informações estudantis. 
 
 ⚙️ Funcionalidades

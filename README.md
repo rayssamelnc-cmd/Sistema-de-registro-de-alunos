@@ -1,5 +1,7 @@
-💻Sobre o Sistema de alunos:
+<p>
+💻Sobre o Sistema de alunos: <br>
 Este projeto é um Sistema de Registro de Alunos criado com Python e Tkinter, que facilita o gerenciamento de informações estudantis. 
+</p>
 
 ⚙️ Funcionalidades
 <ul>

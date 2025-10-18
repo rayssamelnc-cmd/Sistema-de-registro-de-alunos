@@ -1,5 +1,5 @@
 O sistema fica assim quando está sendo executado:
-
+<img src='inicial.png" alt="tela inicial do sistema de registro de alunos"
 <p>
 💻 Sobre o Sistema de alunos: <br>
   

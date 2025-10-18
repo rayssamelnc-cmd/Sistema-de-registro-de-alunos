@@ -1,5 +1,7 @@
 O sistema fica assim quando está sendo executado:
-<img src='https://github.com/rayssamelnc-cmd/Sistema-de-registro-de-alunos/blob/main/inicial.png?raw=true" alt="tela inicial do sistema de registro de alunos"
+<img src="https://github.com/rayssamelnc-cmd/Sistema-de-registro-de-alunos/blob/main/inicial.png?raw=true" alt="Tela inicial do sistema de registro de alunos">
+
+
 <p>
 💻 Sobre o Sistema de alunos: <br>
   

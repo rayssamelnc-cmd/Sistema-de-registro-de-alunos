@@ -1,4 +1,5 @@
 O sistema fica assim quando está sendo executado:
+
 <img src="https://github.com/rayssamelnc-cmd/Sistema-de-registro-de-alunos/blob/main/inicial.png?raw=true" alt="Tela inicial do sistema de registro de alunos" width="700">
 <img src="https://github.com/rayssamelnc-cmd/Sistema-de-registro-de-alunos/blob/main/comaluno.png?raw=true" alt="Tela inicial do sistema de registro de alunos" width="700">
 

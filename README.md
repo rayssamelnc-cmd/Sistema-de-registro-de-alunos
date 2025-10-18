@@ -1,3 +1,5 @@
+O sistema fica assim quando está sendo executado:
+
 <p>
 💻 Sobre o Sistema de alunos: <br>
   
